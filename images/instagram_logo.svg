@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 247.7 252.9"
+	 style="enable-background:new 0 0 247.7 252.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#F1F2F2;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="252.9" width="247.7" x="0" y="375.9"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<radialGradient id="SVGID_1_" cx="-126.8097" cy="65.9985" r="247.7669" gradientTransform="matrix(1.2713 0 0 1.2978 178.4276 153.516)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FEC053"/>
+	<stop  offset="0.3273" style="stop-color:#F2203E"/>
+	<stop  offset="0.6485" style="stop-color:#B729A8"/>
+	<stop  offset="1" style="stop-color:#5342D6"/>
+</radialGradient>
+<path class="st0" d="M247.7,225.2c0,15.3-12.1,27.7-27.1,27.7H27.1c-15,0-27.1-12.4-27.1-27.7V27.7C0,12.4,12.1,0,27.1,0h193.5
+	c15,0,27.1,12.4,27.1,27.7L247.7,225.2L247.7,225.2z"/>
+<g>
+	<path class="st1" d="M173.7,215.4H74.1c-20.6,0-37.3-17.1-37.3-38V75.6c0-21,16.7-38,37.3-38h99.6c20.6,0,37.3,17.1,37.3,38v101.7
+		C210.9,198.3,194.2,215.4,173.7,215.4z M74.1,58.3c-9.3,0-16.9,7.8-16.9,17.3v101.7c0,9.5,7.6,17.3,16.9,17.3h99.6
+		c9.3,0,16.9-7.8,16.9-17.3V75.6c0-9.5-7.6-17.3-16.9-17.3H74.1z"/>
+</g>
+<g>
+	<path class="st1" d="M123.9,175.6c-26.5,0-48.1-22-48.1-49.1s21.6-49.1,48.1-49.1s48.1,22,48.1,49.1S150.4,175.6,123.9,175.6z
+		 M123.9,98.1c-15.3,0-27.8,12.7-27.8,28.4c0,15.6,12.5,28.4,27.8,28.4s27.8-12.7,27.8-28.4C151.6,110.8,139.2,98.1,123.9,98.1z"/>
+</g>
+<ellipse class="st1" cx="173.1" cy="78.9" rx="8.7" ry="8.8"/>
+</svg>
