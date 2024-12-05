@@ -75,6 +75,7 @@ header{
   .pagetitles{
     max-width: 100%;
     text-align: center;
+    text-decoration: underline;
   }
   #hero_home{
     max-width: 100%;
