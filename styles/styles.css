@@ -88,12 +88,31 @@ header{
  /*--------------------------------------*/
 
  /*This is CSS specifically for the Destinations page*/
+
  .grid_for_destinations{
   display: grid;
-  grid-template-columns:1fr 1fr;
+  grid-template-columns: repeat(2,1fr);
+  justify-items: center;
+  border: 2px double black;
+  
+ 
  }
- .destinationsp1_pic{
-  max-width: fit-content;
+ .blocks{
+  max-width: 23.999%;
+  max-height: 25%;
+  padding: 0 50px;
+  justify-items: center;
+  border: 2px solid black;
+  
+ }
+ .pics img{
+  width: 300px;
+  height: 300px;
+  border: 2px solid black;
+
+ }
+ .pics img:hover {
+  border: 2px solid #777;
  }
   .destinationsp1{
     padding: 0 ;
