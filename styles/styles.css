@@ -40,19 +40,20 @@ header{
     padding: 5%;
 }
 .logo{
-    max-width: 10%;
+    width: 15%;
     padding: 2px;
   
   }
   nav{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content:space-between;
     margin:0 20px;
+    width: 100%;
     
   }
   #allnavs a{
-    max-width: 100px;
+    width: 100%;
     text-decoration: none;
     color: black;
     border: 5px solid black;
@@ -111,14 +112,48 @@ header{
   border: 2px solid black;
 
  }
- .pics img:hover {
-  border: 2px solid #777;
- }
+ 
   .destinationsp1{
     padding: 0 ;
   }
  
+/*This is CSS for the Safety Page*/
+.safety_pics{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.fampic{
+  width: 75%;
+  grid-column: 1/2;
+  padding-left: 15%;
+}
+.ipenemapic{
+  width: 75%;
+  grid-column:2/3;
+  padding-left: 15%;
 
+}
+.all_lists{
+  padding: 5% 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.list{
+  padding: 10px;
+  background-color: #3FA3DA;
+}
+.list div{
+  padding-right: 40%;
+  border: 5px solid black;
+}
+.list ul{
+  width: 25%;
+  margin: 0 auto;
+}
+.list li{
+  padding: 5px;
+}
+/*------------------------------------------------*/
  /*-----------------------------------------------*/
  /*This is the footer Css for all pages*/
   footer{
